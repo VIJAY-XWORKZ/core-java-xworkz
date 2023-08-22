@@ -1,8 +1,8 @@
-class ZomatoTester{
+class FoodPandaTester{
  public static void main(String[]args){
  System.out.println("main started");
  
- double price=Zomato.search("tomato soup");
+ double price=FoodPanda.search("squid");
   
  System.out.println("the price is" +price);
  
