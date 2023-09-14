@@ -15,8 +15,9 @@ public static void main (String[] shop){
 	chats.addChatName("pav bhaji");
 	chats.addChatName("girmit");
 	
+	chats.addChatName("girmit");
 	
-	chats.getChatNames();
+	chats.getDisplay();
 	
 }
 }

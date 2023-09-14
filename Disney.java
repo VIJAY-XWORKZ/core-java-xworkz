@@ -1,2 +1,0 @@
-class Disney extends OttPlatformtwo{
-}

@@ -16,7 +16,7 @@ team.addPlayerName("rahul");
 team.addPlayerName("pant");
 
 
-team.getPlayers();
+team.getDisplay();
 }
 
 

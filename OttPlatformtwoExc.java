@@ -2,12 +2,21 @@ class OttPlatformtwoExc{
 
 public static void main(String[] ott){
 
- Disney dis=new Disney();
+ OttPlatformtwo dis=new OttPlatformtwo();
  dis.addMovieName("om");
   dis.addMovieName("jogi");
    dis.addMovieName("jogayya");
     dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
+	dis.addMovieName("kaddipudi");
 	
-	dis.getMoviesNames();
+	dis.getDisplay();
 }
 }

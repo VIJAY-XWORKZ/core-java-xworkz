@@ -16,7 +16,7 @@ class InteriorExc{
 			   
 	 
 	 
-	 inte.getMaterialNames();
+	 inte.getDisplay();
 	 
  }
 

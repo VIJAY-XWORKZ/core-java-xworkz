@@ -14,7 +14,8 @@ public static void main(String[] rest){
 	food.addFoodName("pongal");
 	food.addFoodName("bisibele baath");
 	food.addFoodName("jeera rice");
+	food.addFoodName("jeera rice");
 	
-	food.getMenu();
+	food.getDisplay();
 }
 }
